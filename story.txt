@@ -1,1 +1,2 @@
 "Hello My friend super user ROOT"
+Today is Sunday and we are practicing git
