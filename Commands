@@ -1,0 +1,5 @@
+
+Below are the some linux command
+uname -a
+vdo create --name=vdo1 --device=/dev/sdb --vdoLogicalSize=50GiB
+yum install ftp vsftpd -y
